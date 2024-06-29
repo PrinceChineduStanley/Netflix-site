@@ -1009,6 +1009,24 @@ body{
     position: absolute;
     top: 175%;
 }
+.textbox{
+    font-size: large;
+    width: 70%;
+    height: 100px;
+    /* border: 1px solid white; */
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.leftimage{
+    width: 30%;
+    height: 180px;
+    margin-left:35%;
+}
+.questiontext{
+    width: 90%;
+    font-size: small;
+    margin-left: 5%;
+}
 
 
 }
